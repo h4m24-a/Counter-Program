@@ -1,2 +1,2 @@
 # Counter-Program
-Simple Counter program using JavaScript
+Simple Counter program using JavaScript, HTML & CSS.
